@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-http/static/css/main.bee624f2.css",
+    "main.js": "/react-http/static/js/main.ebdd090a.js",
+    "static/media/maxim.jpg": "/react-http/static/media/maxim.e6c17703bfdd31eb098e.jpg",
+    "index.html": "/react-http/index.html",
+    "main.bee624f2.css.map": "/react-http/static/css/main.bee624f2.css.map",
+    "main.ebdd090a.js.map": "/react-http/static/js/main.ebdd090a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee624f2.css",
+    "static/js/main.ebdd090a.js"
+  ]
+}
