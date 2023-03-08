@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuriisoroka165.github.io/react-http/",
+  "homepage": "https://yuriisoroka165.github.io/react-http-hooks/",
   "dependencies": {
     "nanoid": "^4.0.1",
     "react": "^18.2.0",
